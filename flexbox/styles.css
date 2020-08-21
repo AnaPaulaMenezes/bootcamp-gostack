@@ -1,0 +1,39 @@
+html,body,#app{
+    height: 100%;
+    margin:0;
+}
+#app{
+    display: flex;
+    /*flex-direction: row;*/
+    /*align-items: flex-start;/* Alinha no eixo contrario de flex direction*/
+    /*justify-content: center;/*Alinha no eixo  de flex direction*/
+    /*flex-wrap: wrap; /*Quebra a linha, e nos traz o align contente*/
+    /*align-content: flex-start; /*alinha os elementos quando eles tem mais de um linha*/
+
+}
+.box{
+    width: 500px;
+    height:60px;
+    background: #f00;
+    margin: 5px;
+    /*flex-grow: 1; /*Aceita ser aumentado para caber no container*/
+    /*flex-shrink: 0  ;/*Aceita ser expremido para caber na tela, default 1*/
+    /*flex: 1 /*Define o grow e shrink simultaneamente*/
+
+}
+
+.red{
+    order: 1;
+}
+
+.green{
+    background: #0F0;
+    order:2
+
+}
+
+.blue{
+    background: #00F;
+    order:0
+}
+
