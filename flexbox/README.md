@@ -1,39 +1,14 @@
 <h2>Sobre</h2>
-<p>Montagem do layout utilizado pelo Twitter com a tecnologia Node.js.</p>
+<p>Este projeto foi realizado durante o curso extra do bootcamp GoStack sobre flexbox layout, e consistiu em replicar o layout do Twitter usando o conceito de flexbox</p>
 
-<h2>Pré-Requisitos</h2>
-<ul>
-  <li>node.js</li>
-  <li>yarn</li>
-  <li>SDK android (somente para o projeto mobile)</li>
-</ul>
 
 <h2>Como instalar</h2>
 <ul>
+  
   <li>
-    Dentro cada um dos projetos rode o seguinte comando para instalar todas as dependências: 
-   
-   ```bash
-   yarn
-   ```
+    Para visualizar o layout criado acesse a pasta app e abra o arquivo index.html
   </li>
-  <li>
-    Inicie o backend da aplicação rodando o seguinte comado dentro da pasta backend:
-   
-   ```bash
-   yarn dev
-   ```
-  </li>
-  <li>
-    Faça o mesmo processo para a pasta frontend e em seguida acesse a aplicação web partir da rota localhost:8080;
-  </li>
-  <li>
-    Para executar o projeto mobile, com o emulador já iniciado, digite dentro da pasta mobile o seguinte comando:
-   
-   ```bash
-   yarn android
-   ```
-  </li>
+ 
 </ul>
 
 <h2>Licença</h2>
