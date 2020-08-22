@@ -1,3 +1,4 @@
+<img src="https://github.com/AnaPaulaMenezes/bootcamp-gostack/blob/master/images/Wallpaper%20Bootcamp.png"/>
 <h2>:rocket: Aplicações desenvolvidas duarante as aulas do GoStack</h2>
 
 <h3>Aulas</h3>
