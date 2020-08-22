@@ -1,12 +1,12 @@
 <h2>Sobre</h2>
-<p>Este projeto foi realizado durante o curso extra do bootcamp GoStack sobre flexbox layout, e consistiu em replicar o layout do Twitter usando o conceito de flexbox</p>
+<p>Este projeto foi realizado durante o curso extra do bootcamp GoStack sobre flexbox layout, e consistiu em replicar o layout do Twitter usando o conceito de flexbox.</p>
 
 
 <h2>Como instalar</h2>
 <ul>
   
   <li>
-    Para visualizar o layout criado acesse a pasta app e abra o arquivo index.html
+    Para visualizar o layout criado acesse a pasta app e abra o arquivo index.html.
   </li>
  
 </ul>
