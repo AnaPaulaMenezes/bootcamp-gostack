@@ -1,11 +1,11 @@
 <h2>Sobre</h2>
-<p>Exercicios de introdução aos principais coinceitos de node, React, React Native e Typescript desenvolvidos durante durante o nível 1 do bootcamp GoStack.</p>
+<p>Exercicios de introdução aos principais coinceitos de Node, React, React Native e Typescript desenvolvidos durante durante o nível 1 do bootcamp GoStack.</p>
 
 <h2>Pré-Requisitos</h2>
 <ul>
-  <li>node.js</li>
-  <li>yarn</li>
-  <li>SDK android (somente para o projeto mobile)</li>
+  <li>node.js;</li>
+  <li>npm ou yarn;</li>
+  <li>SDK android (somente para o projeto mobile);</li>
 </ul>
 
 <h2>Como instalar</h2>
@@ -16,12 +16,23 @@
    ```bash
    yarn
    ```
+   
+   ou 
+   
+   ```bash
+   npm install
+   ```
   </li>
   <li>
     Inicie o backend da aplicação rodando o seguinte comado dentro da pasta backend:
    
    ```bash
    yarn dev
+   ```
+   ou 
+   
+   ```bash
+   npm start
    ```
   </li>
   <li>
@@ -32,6 +43,11 @@
    
    ```bash
    yarn android
+   ```
+   ou
+   
+   ```bash
+   npm run android
    ```
   </li>
 </ul>
